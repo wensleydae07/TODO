@@ -9,7 +9,7 @@ body {
     max-width: 200px;
     min-height: 30px;
     margin: 50px auto;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
     background: rgba(255,255,255, .4);
     border-radius: 5px;
     box-shadow: 0 0 4px #666666;
@@ -17,7 +17,7 @@ body {
 .header {
     padding-top: 10px;
     text-align: center;
-    font-family: 'Josefin Slab';
+    font-family: 'Lucida Calligraphy';
     font-weight: 300;
     color: #83b7d3;
 }
@@ -35,7 +35,7 @@ body {
     width: 60%;
     height: 300%;
     padding: 0 10px;
-    font-family: 'Shadows Into Light';
+    font-family: 'Lucida Calligraphy';
     border: 1px solid transparent;
 }
 .add-item-button {
@@ -44,7 +44,7 @@ body {
     text-transform: uppercase;
     background: #add8e6;
     border: 1px solid transparent;
-    font-family: 'Josefin Slab';
+    font-family: 'Lucida Calligraphy';
     font-weight: 600;
     transition: .3s;
 }
@@ -57,7 +57,7 @@ body {
     position: absolute;
     left: 5px;
     bottom: -20px;
-    font-family: 'Josefin Slab';
+    font-family: 'Lucida Calligraphy';
     font-weight: 600;
     color: #f4424e;
 }
@@ -71,7 +71,7 @@ body {
     height: 40px;
     margin-bottom: 10px;
     padding: 5px;
-    font-family: 'Shadows Into Light';
+    font-family: 'Lucida Calligraphy';
     font-size: 18px;
     border-bottom: 1px dashed #999999;
 }
@@ -110,7 +110,7 @@ body {
     padding: 5px 15px;
     background: rgba(255,255,255, .6);
     border: none;
-    font-family: 'Josefin Slab';
+    font-family: 'Lucida Calligraphy';
     font-weight: 600;
     transition: .3s;
 }
