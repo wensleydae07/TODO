@@ -1,12 +1,12 @@
 body {
-    height: 50vh;
+    height: 80vh;
     margin: 0;
     background: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
     background-repeat: no-repeat;
     font-family: 'Droid Sans';
 }
 .todo-app {
-    max-width: 200px;
+    max-width: 300px;
     min-height: 50px;
     margin: 50px auto;
     padding-bottom: 20px;
@@ -15,14 +15,14 @@ body {
     box-shadow: 0 0 4px #666666;
 }
 .header {
-    padding-top: 10px;
+    padding-top: 15px;
     text-align: center;
     font-family: 'Lucida Calligraphy';
-    font-weight:100;
+    font-weight:300;
     color: #83b7d3;
 }
 .add-item-form {
-    width: 50%;
+    width: 70%;
     height: 20px;
     margin: 0 auto;
     padding-bottom: 15px;
@@ -33,7 +33,7 @@ body {
 }
 .add-item-input {
     width: 60%;
-    height: 300%;
+    height: 80%;
     padding: 0 10px;
     font-family: 'Lucida Calligraphy';
     border: 1px solid transparent;
