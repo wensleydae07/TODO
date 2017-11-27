@@ -42,7 +42,7 @@ var App = function (_React$Component) {
             React.createElement(
                 'h1',
                 { className: 'header' },
-                ' React Todo App '
+                ' ToDo-MoTo '
             ),
             React.createElement(AddItem, { onAdd: this.onAdd.bind(this), items: this.state.todoItems }),
             React.createElement(
